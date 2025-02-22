@@ -2,5 +2,10 @@
 name = "valide"
 version = "0.0.1"
 edition = "2024"
+description = "a validator crate for snx"
+authors = ["Julian Ollivieira"]
+documentation = "https://docs.rs/valide"
+repository = "https://github.com/snx-rs/valide"
+license = "MIT"
 
 [dependencies]
