@@ -1,0 +1,16 @@
+[package]
+name = "valide_derive"
+documentation = "https://docs.rs/valide_derive"
+readme = "../README.md"
+edition = "2024"
+version.workspace = true
+authors.workspace = true
+repository.workspace = true
+license.workspace = true
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = { version = "2" }
+quote = { version = "1" }

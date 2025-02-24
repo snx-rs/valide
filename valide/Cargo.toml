@@ -1,0 +1,12 @@
+[package]
+name = "valide"
+documentation = "https://docs.rs/valide"
+readme = "../README.md"
+edition = "2024"
+version.workspace = true
+authors.workspace = true
+repository.workspace = true
+license.workspace = true
+
+[dependencies]
+valide_derive = { path = "../valide_derive" }
