@@ -6,7 +6,7 @@ valide is a crate which validates structs.
 
 ###### derive
 
-valide provides a robust `Validate` derive which generates the code required for validating your struct.
+valide provides a robust `Validate` derive which generates a `valide::Validate` implementation for your struct.
 
 ```rust
 #[derive(valide::Validate)]
