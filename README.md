@@ -1,6 +1,6 @@
 # valide
 
-valide is a crate which validates structs.
+valide is an experimental crate for validating structs.
 
 ## features
 
